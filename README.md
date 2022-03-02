@@ -1,19 +1,19 @@
 # Bloom
 
+![Gameplay](bloom.png)
+
 Sit down with a fresh cup of tea and relax in this online multiplayer gardening game. 
 
 Click [here](https://bloomhw4.herokuapp.com/) to play.
 
-![Gameplay](bloom.png)
-
 Bloom uses real-time weather data! To choose a specific location:
 
-- [London](https://bloomhw4.herokuapp.com/london) (Default)
+- [London](https://bloomhw4.herokuapp.com/london) (default)
 - [Los Angeles](https://bloomhw4.herokuapp.com/losangeles)
 - [Halifax](https://bloomhw4.herokuapp.com/halifax)
 - [Vancouver](https://bloomhw4.herokuapp.com/vancouver)
 
-Built for [Hack Western 4](https://hackwestern4.devpost.com/) in 2017.
+Built in 36 hours for [Hack Western 4](https://hackwestern4.devpost.com/) using Babylon.js.
 
 # Setup
 
