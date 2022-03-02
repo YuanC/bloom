@@ -2,7 +2,7 @@
 
 ![Gameplay](bloom.png)
 
-Sit down with a fresh cup of tea and relax in this online multiplayer gardening game. 
+Sit down with a fresh cup of tea and relax in this online multiplayer gardening game.
 
 Click [here](https://bloomhw4.herokuapp.com/) to play.
 
@@ -13,7 +13,7 @@ Bloom uses real-time weather data! To choose a specific location:
 - [Halifax](https://bloomhw4.herokuapp.com/halifax)
 - [Vancouver](https://bloomhw4.herokuapp.com/vancouver)
 
-Built in 36 hours for [Hack Western 4](https://hackwestern4.devpost.com/) using Babylon.js.
+Built in 36 hours for [Hack Western 4](https://hackwestern4.devpost.com/).
 
 # Setup
 
@@ -25,7 +25,7 @@ Use `npm start` to run the app locally.
 
 ## Awards
 
-- Winner of Best Web Game by Big Viking Games
+- Best Web Game by Big Viking Games
 
 See the [Devpost submission](https://devpost.com/software/bloom-k50zoy) for details.
 
