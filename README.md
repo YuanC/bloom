@@ -4,7 +4,7 @@ Sit down with a fresh cup of tea and relax in this online multiplayer gardening 
 
 Click [here](https://bloomhw4.herokuapp.com/) to play.
 
-TODO(Jerry): Add picture here.
+![Gameplay](bloom.png)
 
 Bloom uses real-time weather data! To choose a specific location:
 
